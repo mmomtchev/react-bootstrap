@@ -52,7 +52,7 @@
     "gatsby-plugin-catch-links": "^2.7.0",
     "gatsby-plugin-mdx": "^1.7.1",
     "gatsby-plugin-react-helmet": "^3.7.0",
-    "gatsby-plugin-sass": "^2.8.0",
+    "gatsby-plugin-sass": "^3.0.0",
     "gatsby-remark-prismjs": "^3.10.0",
     "gatsby-source-filesystem": "2.8.1",
     "gatsby-transformer-react-docgen": "^5.6.0",
